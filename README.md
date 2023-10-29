@@ -2,4 +2,4 @@
 this is a demo repository.
 
 # Teacher
-Zakir Taqvi
+Zakir Taqvi.
